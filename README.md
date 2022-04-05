@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JacobOrzen
+- 👋 Hi, I’m Jacob Orzen
 - 👀 I’m interested in learning Git, understanding CI/CD, and collaborating on projects
 - 🌱 I’m currently learning Python and Java
 - 📫 How to reach me: jacob@orzen.net
